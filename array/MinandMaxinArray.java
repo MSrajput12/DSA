@@ -3,7 +3,7 @@ package array;
 import java.util.ArrayList;
 
 public class MinandMaxinArray {
-    public static void main(int []arr){
+    public static ArrayList<Integer> main(int []arr){
         int min=arr[0];
         int max=arr[0];
         for(int i=1;i<arr.length;i++){

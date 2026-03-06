@@ -3,7 +3,7 @@ package array;
 import java.util.ArrayList;
 
 public class MaxDiffElementsandIndexes{
-    public static main(int []arr){
+    public static int main(int []arr){
         int max1=Integer.MIN_VALUE;
         int max2=Integer.MIN_VALUE;
         int min1=Integer.MAX_VALUE;
