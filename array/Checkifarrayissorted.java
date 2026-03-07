@@ -7,8 +7,9 @@ public class Checkifarrayissorted {
                 return false;
 
             }
-            return true;
+            
         }
+        return true;
     }
 
     
